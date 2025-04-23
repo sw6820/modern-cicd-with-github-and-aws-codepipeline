@@ -16,4 +16,4 @@ reports:
   codecoverage:
     files:
       - 'coverage/cobertura-coverage.xml'
-    file-format: 'COBERTURAXML's
+    file-format: 'COBERTURAXML'
